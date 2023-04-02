@@ -1,1 +1,1 @@
-# Icequake-Location-Code
+# Icequake-Location-Codes
